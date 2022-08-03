@@ -1,4 +1,4 @@
-# Project Phase 4
+# Cricket Data Base
 
 We built a CLI where we can choose the command to run from the numbered menu.
 
